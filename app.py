@@ -19,10 +19,10 @@ st.set_page_config(
 st.markdown(
     """
     <style>
-        body {
+        .reportview-container {
             background-color: #f7f7f7;
         }
-        .reportview-container {
+        .css-ffhzg2 {
             background-color: #f7f7f7;
         }
     </style>
